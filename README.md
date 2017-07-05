@@ -1,5 +1,17 @@
 # Oblate Spheriod
 
+### Skill sets
+
+| Data Mgmt | Software/Web Dev | Adv Analytics |
+| ------- | ---------- | -------- |
+|SQL (PostgreSQL, MySQL)	|*nix environments, bash scripting	|Text mining and NLP|
+|NoSQL (MongoDB, SPARQL)	|Python, R, SAS	|Machine learning|
+|Data prep, cleaning	|pipelines	|Classical and Bayesian probability and inference|
+|database/schema design	|Shiny for rapid protyping	|Simulation|
+|	|Django web framework	|Optimization|
+|	|Agile development process	|Experimental design|
+|	|git version control	|Visualizations, dashboards|
+
 ### Repos
 
 [Rust Books](https://github.com/OblateSpheroid/RustBooks): List of books on Rust (programming language)
