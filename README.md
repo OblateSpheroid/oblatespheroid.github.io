@@ -1,5 +1,9 @@
 # Oblate Spheriod
 
+### Intro
+
+I came into coding from the traditional research world (environmental science). I started building models in R and Python, and later moved into scientific computing using Python and now dabbling with Julia. I'm now focused mostly on machine learning (scikit-learn, tensorflow, and Rust), text mining and natural language processing, and visualizations/front-end development (Shiny, R Markdown, Django) in on-demand and deployed applications.
+
 ### Skill sets
 
 | Data Mgmt | Software/Web Dev | Adv Analytics |
