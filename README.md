@@ -7,14 +7,14 @@ I came into coding from the traditional research world (environmental science). 
 ### Skill sets
 
 | Data Mgmt | Software/Web Dev | Adv Analytics |
-| ------- | ---------- | -------- |
-|SQL (PostgreSQL, MySQL)	|*nix environments, bash scripting	|Text mining and NLP|
-|NoSQL (MongoDB, SPARQL)	|Python, R, SAS	|Machine learning|
-|Data prep, cleaning	|pipelines	|Classical and Bayesian probability and inference|
-|database/schema design	|Shiny for rapid protyping	|Simulation|
-|	|Django web framework	|Optimization|
-|	|Agile development process	|Experimental design|
-|	|git version control	|Visualizations, dashboards|
+|:--------- |:----------------:| -------------:|
+| SQL (PostgreSQL, MySQL) | *nix environments, bash scripting | Text mining and NLP |
+| NoSQL (MongoDB, SPARQL) | Python, R, SAS | Machine learning |
+| Data prep, cleaning | Pipelines | Classical and Bayesian probability and inference |
+| Database/schema design | Shiny for rapid protyping | Simulation |
+|	Ontologies and taxonomies | Django web framework | Optimization |
+|	| Agile development process | Experimental design |
+|	| git version control | Visualizations, dashboards |
 
 ### Repos
 
