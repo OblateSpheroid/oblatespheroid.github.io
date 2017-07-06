@@ -2,16 +2,16 @@
 
 ### Intro
 
-I came into coding from the traditional research world (environmental science). I started building models in R and Python, and later moved into scientific computing using Python and now dabbling with Julia. I'm now focused mostly on machine learning (scikit-learn, tensorflow, and Rust), text mining and natural language processing, and visualizations/front-end development (Shiny, R Markdown, Django) in on-demand and deployed applications.
+I came into coding from the traditional research world (environmental science). I started building models in R and Python, and later moved into scientific computing using Python and now dabbling with Julia. I'm now focused mostly on machine learning, text mining/natural language processing, and visualizations/front-end development in on-demand and deployed applications.
 
-### Skill sets
+### Skill and tool sets
 
-| Data Mgmt | Software/Web Dev | Adv Analytics |
+| Data Management | Software/Web Development | Advanced Analytics |
 |:--------- |:----------------:| -------------:|
-| SQL (PostgreSQL, MySQL) | *nix environments, bash scripting | Text mining and NLP |
-| NoSQL (MongoDB, SPARQL) | Python, R, SAS | Machine learning |
-| Data prep, cleaning | Pipelines | Classical and Bayesian probability and inference |
-| Database/schema design | Shiny for rapid protyping | Simulation |
+| SQL (PostgreSQL, MySQL) | *nix environments, bash | Text mining and NLP |
+| NoSQL (MongoDB, RDF/SPARQL) | Python, R, SAS | Machine learning |
+| Data wrangling and cleaning | Pipelines (GoCD) | Classical and Bayesian probability and inference |
+| Database/schema design and mgmt | Shiny for rapid protyping | Simulation |
 |	Ontologies and taxonomies | Django web framework | Optimization |
 |	| Agile development process | Experimental design |
 |	| git version control | Visualizations, dashboards |
