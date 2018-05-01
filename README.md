@@ -7,32 +7,110 @@ I came into coding from the traditional research world (environmental science). 
 ### Skill and tool sets
 Table 1:
 
-| Skill set | Tool set |
-|:--------- | --------:|
-| <h6>Data Management/Information Systems</h6> | |
-| &nbsp;&nbsp; SQL | Postgres, MySQL, MS SQL, Sybase |
-| &nbsp;&nbsp; NoSQL | MongoDB, SPARQL, Redis |
-| &nbsp;&nbsp; Ontologies and Taxonomies | RDF/OWL, Protege, SPARQL, Apache Jena |
-| <h6>Software developement</h6> | |
-| &nbsp;&nbsp; Unix environments | Shell (bash, zsh), System admin tools |
-| &nbsp;&nbsp; Rapid prototyping | R Shiny |
-| &nbsp;&nbsp; General programming langauges | Python, Scala, Go, Rust |
-| &nbsp;&nbsp; Backend developement | Django, Flask, Node.js |
-| <h6>Analytics and Prediction</h6> | |
-| &nbsp;&nbsp; Data wrangling, cleaning| |
-| &nbsp;&nbsp; Text mining and Natural Language Processing| Python, R |
-| &nbsp;&nbsp; Machine Learning | scikit-learn, TensorFlow, PyTorch |
-| &nbsp;&nbsp; Probablility and Inference | |
-| &nbsp;&nbsp; Simulation | |
-| &nbsp;&nbsp; Optimization | |
-| &nbsp;&nbsp; Experimental design | |
-| &nbsp;&nbsp; Vizualizations and dashboards | Tableau, R Shiny, Kibana |
-| <h6>DevOps</h6> | |
-| &nbsp;&nbsp; Version control and Collaboration | Git/GitHub |
-| &nbsp;&nbsp; Continuous Integration/Delivery | GoCD, Jenkins |
-| &nbsp;&nbsp; Configuration/Cluster Management | Ansible, Vagrant, Docker, Kubernetes, Mesos |
-| &nbsp;&nbsp; Build Tools | Make, Ant, Maven, Gradle |
-| &nbsp;&nbsp; Monitoring | Elasticsearch, Loghash, Kibana (ELK), Icinga |
+<table>
+<thead>
+<tr>
+<th align="left">Skill set</th>
+<th align="right">Tool set</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left"><h6>Data Management/Information Systems</h6></td>
+<td align="right"></td>
+</tr>
+<tr>
+<td align="left">   SQL</td>
+<td align="right">Postgres, MySQL, MS SQL, Sybase</td>
+</tr>
+<tr>
+<td align="left">   NoSQL</td>
+<td align="right">MongoDB, SPARQL, Redis</td>
+</tr>
+<tr>
+<td align="left">   Ontologies and Taxonomies</td>
+<td align="right">RDF/OWL, Protege, SPARQL, Apache Jena</td>
+</tr>
+<tr>
+<td align="left"><h6>Software developement</h6></td>
+<td align="right"></td>
+</tr>
+<tr>
+<td align="left">   Unix environments</td>
+<td align="right">Shell (bash, zsh), System admin tools</td>
+</tr>
+<tr>
+<td align="left">   Rapid prototyping</td>
+<td align="right">R Shiny</td>
+</tr>
+<tr>
+<td align="left">   General programming langauges</td>
+<td align="right">Python, Scala, Go, Rust</td>
+</tr>
+<tr>
+<td align="left">   Backend developement</td>
+<td align="right">Django, Flask, Node.js</td>
+</tr>
+<tr>
+<td align="left"><h6>Analytics and Prediction</h6></td>
+<td align="right"></td>
+</tr>
+<tr>
+<td align="left">   Data wrangling, cleaning</td>
+<td align="right"></td>
+</tr>
+<tr>
+<td align="left">   Text mining and Natural Language Processing</td>
+<td align="right">Python, R</td>
+</tr>
+<tr>
+<td align="left">   Machine Learning</td>
+<td align="right">scikit-learn, TensorFlow, PyTorch</td>
+</tr>
+<tr>
+<td align="left">   Probablility and Inference</td>
+<td align="right"></td>
+</tr>
+<tr>
+<td align="left">   Simulation</td>
+<td align="right"></td>
+</tr>
+<tr>
+<td align="left">   Optimization</td>
+<td align="right"></td>
+</tr>
+<tr>
+<td align="left">   Experimental design</td>
+<td align="right"></td>
+</tr>
+<tr>
+<td align="left">   Vizualizations and dashboards</td>
+<td align="right">Tableau, R Shiny, Kibana</td>
+</tr>
+<tr>
+<td align="left"><h6>DevOps</h6></td>
+<td align="right"></td>
+</tr>
+<tr>
+<td align="left">   Version control and Collaboration</td>
+<td align="right">Git/GitHub</td>
+</tr>
+<tr>
+<td align="left">   Continuous Integration/Delivery</td>
+<td align="right">GoCD, Jenkins</td>
+</tr>
+<tr>
+<td align="left">   Configuration/Cluster Management</td>
+<td align="right">Ansible, Vagrant, Docker, Kubernetes, Mesos</td>
+</tr>
+<tr>
+<td align="left">   Build Tools</td>
+<td align="right">Make, Ant, Maven, Gradle</td>
+</tr>
+<tr>
+<td align="left">   Monitoring</td>
+<td align="right">Elasticsearch, Loghash, Kibana (ELK), Icinga</td>
+</tr></tbody></table>
 
 Table 2:
 
