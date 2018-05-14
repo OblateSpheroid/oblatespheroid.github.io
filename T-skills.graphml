@@ -32,7 +32,6 @@
 			<yjs:SolidColorFill x:Key="2" color="#47FF8C00"/>
 			<yjs:Font x:Key="3" fontSize="14"/>
 			<yjs:Font x:Key="4" fontSize="14"/>
-			<yjs:SolidColorFill x:Key="5" color="#FFD2DEEE"/>
 		</y:SharedData>
 	</data>
 	<graph id="G" edgedefault="directed">
@@ -53,7 +52,7 @@ Flask, Node.js]]></y:Label.Text>
 				</x:List>
 			</data>
 			<data key="d2">
-				<y:RectD X="-81.5" Y="-274.5" Width="129" Height="78"/>
+				<y:RectD X="-81.5" Y="-177.75" Width="129" Height="78"/>
 			</data>
 			<data key="d4">
 				<yjs:ShapeNodeStyle stroke="{y:GraphMLReference 1}" fill="{y:GraphMLReference 2}"/>
@@ -90,17 +89,13 @@ R Shiny, Tableau]]></y:Label.Text>
 						<y:Label.Text><![CDATA[Javascript,
 front-end]]></y:Label.Text>
 						<y:Label.Style>
-							<yjs:DefaultLabelStyle verticalTextAlignment="CENTER" wrapping="WORD" textFill="BLACK" textSize="14">
-								<yjs:DefaultLabelStyle.font>
-									<yjs:Font fontSize="14"/>
-								</yjs:DefaultLabelStyle.font>
-							</yjs:DefaultLabelStyle>
+							<yjs:DefaultLabelStyle verticalTextAlignment="CENTER" wrapping="WORD" font="{y:GraphMLReference 3}" textFill="BLACK" textSize="14"/>
 						</y:Label.Style>
 					</y:Label>
 				</x:List>
 			</data>
 			<data key="d2">
-				<y:RectD X="-372.6875" Y="-274.5" Width="129" Height="78"/>
+				<y:RectD X="-518.28125" Y="-274.5" Width="129" Height="78"/>
 			</data>
 			<data key="d4">
 				<yjs:ShapeNodeStyle stroke="{y:GraphMLReference 1}" fill="{y:GraphMLReference 2}"/>
@@ -137,17 +132,13 @@ Redis]]></y:Label.Text>
 Java, Scala, Go,
 Rust, C, C++]]></y:Label.Text>
 						<y:Label.Style>
-							<yjs:DefaultLabelStyle wrapping="WORD" clipText="false" textFill="BLACK" textSize="14">
-								<yjs:DefaultLabelStyle.font>
-									<yjs:Font fontSize="14"/>
-								</yjs:DefaultLabelStyle.font>
-							</yjs:DefaultLabelStyle>
+							<yjs:DefaultLabelStyle wrapping="WORD" clipText="false" font="{y:GraphMLReference 4}" textFill="BLACK" textSize="14"/>
 						</y:Label.Style>
 					</y:Label>
 				</x:List>
 			</data>
 			<data key="d2">
-				<y:RectD X="210.5" Y="-274.5" Width="129" Height="78"/>
+				<y:RectD X="346.5625" Y="-274.5" Width="129" Height="78"/>
 			</data>
 			<data key="d4">
 				<yjs:ShapeNodeStyle stroke="{y:GraphMLReference 1}" fill="{y:GraphMLReference 2}"/>
@@ -171,7 +162,7 @@ NLTK, scikit]]></y:Label.Text>
 				</x:List>
 			</data>
 			<data key="d2">
-				<y:RectD X="-81.5" Y="-181.5" Width="129" Height="78"/>
+				<y:RectD X="-81.5" Y="-84.75" Width="129" Height="78"/>
 			</data>
 			<data key="d4">
 				<yjs:ShapeNodeStyle stroke="{y:GraphMLReference 1}" fill="{y:GraphMLReference 2}"/>
@@ -195,7 +186,7 @@ Optimization]]></y:Label.Text>
 				</x:List>
 			</data>
 			<data key="d2">
-				<y:RectD X="-81.5" Y="-88.5" Width="129" Height="78"/>
+				<y:RectD X="-81.5" Y="8.25" Width="129" Height="78"/>
 			</data>
 			<data key="d4">
 				<yjs:ShapeNodeStyle stroke="{y:GraphMLReference 1}" fill="{y:GraphMLReference 2}"/>
@@ -220,7 +211,7 @@ GoCD, Jenkins]]></y:Label.Text>
 				</x:List>
 			</data>
 			<data key="d2">
-				<y:RectD X="-81.5" Y="4.5" Width="129" Height="78"/>
+				<y:RectD X="-81.5" Y="101.25" Width="129" Height="78"/>
 			</data>
 			<data key="d4">
 				<yjs:ShapeNodeStyle stroke="{y:GraphMLReference 1}" fill="{y:GraphMLReference 2}"/>
@@ -245,7 +236,7 @@ tidyverse]]></y:Label.Text>
 				</x:List>
 			</data>
 			<data key="d2">
-				<y:RectD X="-81.5" Y="97.5" Width="129" Height="78"/>
+				<y:RectD X="-81.5" Y="194.25" Width="129" Height="78"/>
 			</data>
 			<data key="d4">
 				<yjs:ShapeNodeStyle stroke="{y:GraphMLReference 1}" fill="{y:GraphMLReference 2}"/>
@@ -259,13 +250,17 @@ tidyverse]]></y:Label.Text>
 sys admin and
 shell scripting]]></y:Label.Text>
 						<y:Label.Style>
-							<yjs:DefaultLabelStyle font="{y:GraphMLReference 3}" textFill="BLACK" textSize="14"/>
+							<yjs:DefaultLabelStyle textFill="BLACK" textSize="14">
+								<yjs:DefaultLabelStyle.font>
+									<yjs:Font fontSize="14"/>
+								</yjs:DefaultLabelStyle.font>
+							</yjs:DefaultLabelStyle>
 						</y:Label.Style>
 					</y:Label>
 				</x:List>
 			</data>
 			<data key="d2">
-				<y:RectD X="-81.5" Y="190.5" Width="129" Height="78"/>
+				<y:RectD X="-81.5" Y="287.25" Width="129" Height="78"/>
 			</data>
 			<data key="d4">
 				<yjs:ShapeNodeStyle stroke="{y:GraphMLReference 1}" fill="{y:GraphMLReference 2}"/>
@@ -278,40 +273,23 @@ shell scripting]]></y:Label.Text>
 						<y:Label.Text><![CDATA[SQL,
 DB design]]></y:Label.Text>
 						<y:Label.Style>
-							<yjs:DefaultLabelStyle font="{y:GraphMLReference 3}" textFill="BLACK" textSize="14"/>
+							<yjs:DefaultLabelStyle textFill="BLACK" textSize="14">
+								<yjs:DefaultLabelStyle.font>
+									<yjs:Font fontSize="14"/>
+								</yjs:DefaultLabelStyle.font>
+							</yjs:DefaultLabelStyle>
 						</y:Label.Style>
 					</y:Label>
 				</x:List>
 			</data>
 			<data key="d2">
-				<y:RectD X="-81.5" Y="283.5" Width="129" Height="78"/>
+				<y:RectD X="-81.5" Y="380.25" Width="129" Height="78"/>
 			</data>
 			<data key="d4">
 				<yjs:ShapeNodeStyle stroke="{y:GraphMLReference 1}" fill="{y:GraphMLReference 2}"/>
 			</data>
 		</node>
 		<node id="n11">
-			<data key="d1">
-				<x:List>
-					<y:Label LayoutParameter="{x:Static y:InteriorLabelModel.North}">
-						<y:Label.Text><![CDATA[New Skills:
-DL: NN, Tensorflow
-Elasticsearch (ELK)
-Docker, Kubernetes]]></y:Label.Text>
-						<y:Label.Style>
-							<yjs:DefaultLabelStyle verticalTextAlignment="CENTER" wrapping="WORD" clipText="false" font="{y:GraphMLReference 4}" textFill="BLACK" textSize="14"/>
-						</y:Label.Style>
-					</y:Label>
-				</x:List>
-			</data>
-			<data key="d2">
-				<y:RectD X="200.125" Y="-133.5" Width="158.375" Height="157.375"/>
-			</data>
-			<data key="d4">
-				<demostyle:FlowchartNodeStyle type="process" fill="{y:GraphMLReference 5}"/>
-			</data>
-		</node>
-		<node id="n12">
 			<data key="d1">
 				<x:List>
 					<y:Label LayoutParameter="{x:Static y:InteriorLabelModel.North}">
@@ -327,7 +305,11 @@ geospatial, GIS
 cloud computing
 Big Data: Hadoop, Spark]]></y:Label.Text>
 						<y:Label.Style>
-							<yjs:DefaultLabelStyle verticalTextAlignment="CENTER" wrapping="WORD" clipText="false" font="{y:GraphMLReference 4}" textFill="BLACK" textSize="14"/>
+							<yjs:DefaultLabelStyle verticalTextAlignment="CENTER" wrapping="WORD" clipText="false" textFill="BLACK" textSize="14">
+								<yjs:DefaultLabelStyle.font>
+									<yjs:Font fontSize="14"/>
+								</yjs:DefaultLabelStyle.font>
+							</yjs:DefaultLabelStyle>
 						</y:Label.Style>
 					</y:Label>
 				</x:List>
@@ -336,7 +318,65 @@ Big Data: Hadoop, Spark]]></y:Label.Text>
 				<y:RectD X="-415.75" Y="-96.75" Width="194" Height="263.25"/>
 			</data>
 			<data key="d4">
-				<demostyle:FlowchartNodeStyle type="process" fill="{y:GraphMLReference 5}"/>
+				<demostyle:FlowchartNodeStyle type="process" fill="#FFD2DEEE"/>
+			</data>
+		</node>
+		<node id="n12">
+			<data key="d1">
+				<x:List>
+					<y:Label LayoutParameter="{x:Static y:InteriorLabelModel.North}">
+						<y:Label.Text><![CDATA[Deep Learning:
+NNs, Tensorflow
+PyTorch]]></y:Label.Text>
+						<y:Label.Style>
+							<yjs:DefaultLabelStyle verticalTextAlignment="CENTER" wrapping="WORD" font="{y:GraphMLReference 3}" textFill="BLACK" textSize="14"/>
+						</y:Label.Style>
+					</y:Label>
+				</x:List>
+			</data>
+			<data key="d2">
+				<y:RectD X="-372.6875" Y="-274.5" Width="129" Height="78"/>
+			</data>
+			<data key="d4">
+				<yjs:ShapeNodeStyle stroke="{y:GraphMLReference 1}" fill="{y:GraphMLReference 2}"/>
+			</data>
+		</node>
+		<node id="n13">
+			<data key="d1">
+				<x:List>
+					<y:Label LayoutParameter="{x:Static y:InteriorLabelModel.North}">
+						<y:Label.Text><![CDATA[Elasticsearch
+and ELK stack]]></y:Label.Text>
+						<y:Label.Style>
+							<yjs:DefaultLabelStyle wrapping="WORD" clipText="false" font="{y:GraphMLReference 4}" textFill="BLACK" textSize="14"/>
+						</y:Label.Style>
+					</y:Label>
+				</x:List>
+			</data>
+			<data key="d2">
+				<y:RectD X="-81.5" Y="-274.5" Width="129" Height="78"/>
+			</data>
+			<data key="d4">
+				<yjs:ShapeNodeStyle stroke="{y:GraphMLReference 1}" fill="{y:GraphMLReference 2}"/>
+			</data>
+		</node>
+		<node id="n14">
+			<data key="d1">
+				<x:List>
+					<y:Label LayoutParameter="{x:Static y:InteriorLabelModel.North}">
+						<y:Label.Text><![CDATA[Docker,
+Kubernetes]]></y:Label.Text>
+						<y:Label.Style>
+							<yjs:DefaultLabelStyle wrapping="WORD" clipText="false" font="{y:GraphMLReference 4}" textFill="BLACK" textSize="14"/>
+						</y:Label.Style>
+					</y:Label>
+				</x:List>
+			</data>
+			<data key="d2">
+				<y:RectD X="203.875" Y="-274.5" Width="129" Height="78"/>
+			</data>
+			<data key="d4">
+				<yjs:ShapeNodeStyle stroke="{y:GraphMLReference 1}" fill="{y:GraphMLReference 2}"/>
 			</data>
 		</node>
 	</graph>
