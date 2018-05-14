@@ -2,10 +2,10 @@
 
 ### Intro
 
-I came into coding from the traditional research world (environmental science). I started building models in R and Python, and later moved into scientific computing using Python and now dabbling with Julia. I'm now focused mostly on machine learning, text mining/natural language processing, and visualizations/front-end development in on-demand and deployed applications.
+I came into coding from the traditional research world (environmental science). I started building models in R and Python, and later moved into scientific computing using SciPy and now dabbling with Julia. I'm now focused mostly on machine learning, text mining/natural language processing, and automation in application development and deployment.
 
 ### Skill and tool sets
-Table 1:
+Table 1: Long version
 
 <table>
 <thead>
@@ -56,12 +56,12 @@ Table 1:
 <td align="right"></td>
 </tr>
 <tr>
-<td align="left">&nbsp;&nbsp;Data wrangling, cleaning</td>
-<td align="right"></td>
+<td align="left">&nbsp;&nbsp;Data munging, cleaning, processing</td>
+<td align="right">NumPy, Pandas, R's tidyverse</td>
 </tr>
 <tr>
 <td align="left">&nbsp;&nbsp;Text mining and Natural Language Processing</td>
-<td align="right">Python, R</td>
+<td align="right">Python (nltk, scikit-learn), R (tm, quanteda)</td>
 </tr>
 <tr>
 <td align="left">&nbsp;&nbsp;Machine Learning</td>
@@ -85,7 +85,7 @@ Table 1:
 </tr>
 <tr>
 <td align="left">&nbsp;&nbsp;Vizualizations and dashboards</td>
-<td align="right">Tableau, R Shiny, Kibana</td>
+<td align="right">Tableau, R Shiny, ggplot, plotly, Kibana</td>
 </tr>
 <tr>
 <td align="left"><h6>DevOps</h6></td>
@@ -93,7 +93,7 @@ Table 1:
 </tr>
 <tr>
 <td align="left">&nbsp;&nbsp;Version control and Collaboration</td>
-<td align="right">Git/GitHub</td>
+<td align="right">Git, GitHub, Jira</td>
 </tr>
 <tr>
 <td align="left">&nbsp;&nbsp;Continuous Integration/Delivery</td>
