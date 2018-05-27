@@ -4,6 +4,8 @@
 
 I came into coding from the traditional research world (environmental science). I started building models in R and Python, and later moved into scientific computing using SciPy and now dabbling with Julia. I'm now focused mostly on machine learning, text mining/natural language processing, and automation in application development and deployment.
 
+[My T-skills graph](./T-skills.svg)
+
 ### Skill and tool sets
 Table 1: Long version
 
