@@ -55,7 +55,7 @@ Table 1: Long version
 </tr>
 <tr>
 <td align="left"><h6>Analytics and Prediction</h6></td>
-<td align="right">hypothesis testing, time series, forecasting</td>
+<td align="right"></td>
 </tr>
 <tr>
 <td align="left">&nbsp;&nbsp;Data munging, cleaning, processing</td>
@@ -71,7 +71,7 @@ Table 1: Long version
 </tr>
 <tr>
 <td align="left">&nbsp;&nbsp;Probablility and Inference</td>
-<td align="right">probability modeling, resampling methods, Bayesian methods</td>
+<td align="right">hypothesis testing, time series, probability modeling,<br/>forecasting, resampling methods, Bayesian methods</td>
 </tr>
 <tr>
 <td align="left">&nbsp;&nbsp;Simulation</td>
