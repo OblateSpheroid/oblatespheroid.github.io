@@ -23,7 +23,7 @@ Table 1: Long version
 </tr>
 <tr>
 <td align="left">&nbsp;&nbsp;SQL</td>
-<td align="right">Postgres, MySQL, MS SQL, Sybase</td>
+<td align="right">PostgreSQL, MySQL, MS SQL, Sybase</td>
 </tr>
 <tr>
 <td align="left">&nbsp;&nbsp;NoSQL</td>
@@ -39,7 +39,7 @@ Table 1: Long version
 </tr>
 <tr>
 <td align="left">&nbsp;&nbsp;Unix environments</td>
-<td align="right">Shell (bash, zsh), System admin tools</td>
+<td align="right">shell (bash, zsh), system admin tools</td>
 </tr>
 <tr>
 <td align="left">&nbsp;&nbsp;Rapid prototyping</td>
@@ -63,7 +63,7 @@ Table 1: Long version
 </tr>
 <tr>
 <td align="left">&nbsp;&nbsp;Text mining and Natural Language Processing</td>
-<td align="right">Python (nltk, scikit-learn), R (tm, quanteda)</td>
+<td align="right">Python (NLTK, scikit-learn), R (tm, quanteda)</td>
 </tr>
 <tr>
 <td align="left">&nbsp;&nbsp;Machine Learning</td>
