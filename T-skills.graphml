@@ -87,8 +87,8 @@ R Shiny, Tableau]]></y:Label.Text>
 			<data key="d3">
 				<x:List>
 					<y:Label LayoutParameter="{x:Static y:InteriorLabelModel.North}">
-						<y:Label.Text><![CDATA[Javascript,
-front-end]]></y:Label.Text>
+						<y:Label.Text><![CDATA[REST/
+RESTful APIs]]></y:Label.Text>
 						<y:Label.Style>
 							<yjs:DefaultLabelStyle verticalTextAlignment="CENTER" wrapping="WORD" textFill="BLACK" textSize="14">
 								<yjs:DefaultLabelStyle.font>
@@ -307,6 +307,7 @@ DB design]]></y:Label.Text>
 						<y:Label.Text><![CDATA[Other Skills:
 Bayesian methods
 Agile, Scrum, PM
+Javascript, React
 UI/UX
 Survey design
 Experimental design
